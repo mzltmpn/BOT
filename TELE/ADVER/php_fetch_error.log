@@ -1,0 +1,9 @@
+[28-Oct-2025 01:10:59 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function count1down() in E:\BOT\TELE\advera\main.php:139
+Stack trace:
+#0 {main}
+  thrown in E:\BOT\TELE\advera\main.php on line 139
+[28-Oct-2025 01:20:39 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Call to undefined function timezone_set() in E:\BOT\TELE\advera\main.php:4
+Stack trace:
+#0 {main}
+  thrown in E:\BOT\TELE\advera\main.php on line 4
+[28-Oct-2025 01:34:57 Asia/Jakarta] PHP Warning:  Undefined array key "reward" in E:\BOT\TELE\advera\main.php on line 143
